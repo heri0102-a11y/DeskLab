@@ -1,17 +1,17 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: '경제적 자유를 향한 여정',
-  author: 'Herious',
-  headerTitle: '경제적 자유를 향한 여정',
-  description: '경제적 자유를 향한 여정',
+  title: 'DeskLab',
+  author: 'DeskLab',
+  headerTitle: 'DeskLab - Ai, Developer, Lifehack',
+  description: 'DeskLab - Ai, Developer, Lifehack',
   language: 'ko',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
+  siteUrl: 'https://desk-lab-iyaf.vercel.app',
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.png`,
   mastodon: 'https://mastodon.social/@mastodonuser',
-  email: 'address@yoursite.com',
+  email: 'desklab@google.com',
   github: 'https://github.com',
   x: 'https://twitter.com/x',
   // twitter: 'https://twitter.com/Twitter',
